@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PWW/static/css/main.42e7939f.css",
+    "main.js": "/PWW/static/js/main.18975d4d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/PWW/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/PWW/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PWW/index.html",
+    "main.42e7939f.css.map": "/PWW/static/css/main.42e7939f.css.map",
+    "main.18975d4d.js.map": "/PWW/static/js/main.18975d4d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/PWW/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42e7939f.css",
+    "static/js/main.18975d4d.js"
+  ]
+}
